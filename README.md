@@ -16,3 +16,7 @@ lake build
 [Shellsort.lean](Shellsort.lean) imports the included modules and prints the selected statements and their axioms. Sources and dependency revisions are pinned. Supporting modules may also occur in other paper repositories.
 
 The exact per-input bridge is in [PivotArcCostBridge.lean](Shellsort/PivotArcCostBridge.lean).
+
+## Proof guide
+
+[Read the proof idea in Chinese](brief.md). The guide explains the mathematical claim and the scope of the Lean results linked above.
