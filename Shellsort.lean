@@ -1,0 +1,7 @@
+import Shellsort.KnuthPairFiniteLower
+import Shellsort.PivotArcCostBridge
+
+#check Shellsort.twoPass_pivotArc_eq_taggedCount
+#print axioms Shellsort.twoPass_pivotArc_eq_taggedCount
+#check Shellsort.two_mul_lastCost_eq_sum_taggedArc
+#print axioms Shellsort.two_mul_lastCost_eq_sum_taggedArc
