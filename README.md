@@ -4,6 +4,8 @@ Miaozhen Yu (俞缪臻) · [Project S directory](https://github.com/EternalYMZ/O
 
 For positive coprime gaps, two deterministic identities connect the actual final insertion cost with tagged arc discrepancies. These are interfaces for the analytical error estimate. The Janson–Knuth mean-error bound and its one-sided refinement are outside the formal scope of this snapshot.
 
+The new research note proves how much ordinary insertion cost can be lost under consecutive rank buckets and how sensitive the complete proxy is to a change in the color state. It includes an exact two-threshold analyzer for any finite predetermined gap word. [Results, derivations and replay scripts](research/2026-11-25/README.md)
+
 ## Check the Lean statements
 
 With Git and elan installed, run from the repository root:
