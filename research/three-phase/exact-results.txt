@@ -1,0 +1,13 @@
+The exact four-source Fourier coefficients agree symbolically in all four size residues.
+Checked invariance and symmetrization of 1780 integer folded-threshold states.
+All 231 independently integrated h=2 finite means have strictly positive deficit.
+Ordinary rank execution agrees in all 277398 permutation/word comparisons for n<=8.
+n=  4, h=4, g=3: deficit=0.537037037037, exact=29/54
+n=  5, h=4, g=3: deficit=0.796296296296, exact=43/54
+n=  6, h=4, g=3: deficit=0.788888888889, exact=71/90
+n=  7, h=4, g=3: deficit=0.476719576720, exact=901/1890
+n=  8, h=4, g=3: deficit=0.631216931217, exact=1193/1890
+n= 15, h=4, g=3: deficit=0.569108669109, exact=4661/8190
+n= 20, h=4, g=3: deficit=0.652717652718, exact=1357/2079
+n= 60, h=4, g=3: deficit=0.667447597775, exact=3209517299/4808643120
+n=100, h=4, g=3: deficit=0.671812789164, exact=82291609966012091/122491877638181688

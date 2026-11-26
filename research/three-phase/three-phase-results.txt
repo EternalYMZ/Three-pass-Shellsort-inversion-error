@@ -1,0 +1,3 @@
+Three factorial-moment coefficient dictionaries agree symbolically at every m>=1.
+Physical prefix enumeration independently proves the reported lower bound in all 160 finite cases.
+Checked positive proof bounds or the immediate n=1 case for 25120 integer sizes and gap choices.
